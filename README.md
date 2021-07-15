@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 
 <table width="100%" border="1"><tr><td valign="top">
-
+<!-- 
 ### Frontend  
 <div>  
   <img style="margin: 20px" src="assets/file_type_js.svg" alt="JavaScript" height="50" />  
@@ -26,3 +26,4 @@
 </div>
 
 </td></tr></table>
+ -->
