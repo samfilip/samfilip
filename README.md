@@ -4,7 +4,7 @@
 - 📫 How to reach me: samjfilip@gmail.com
 - 😄 Pronouns: he/him
 
-<table width="100%" border="1"><tr><td valign="top">
+<!-- <table width="100%" border="1"><tr><td valign="top"> -->
 <!-- 
 ### Frontend  
 <div>  
