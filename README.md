@@ -1,6 +1,6 @@
 ### Hi there, I'm Sam! 👋
 
-- 🔭 I’m currently working on [SvelteStorm](https://github.com/oslabs-beta/SvelteStorm.git)
+- 🔭 I’m currently working on [SvelteStorm](https://github.com/oslabs-beta/SvelteStorm.git) and [charma](https://github.com/TeamEspeon/Charma.git)
 - 📫 How to reach me: samjfilip@gmail.com
 - 😄 Pronouns: he/him
 
