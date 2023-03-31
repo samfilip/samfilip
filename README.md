@@ -1,8 +1,6 @@
 ### Hi there, I'm Sam! 👋
 
 
-- 😄 Pronouns: he/him
-
 <!-- <table width="100%" border="1"><tr><td valign="top"> -->
 <!-- 
 ### Frontend  
