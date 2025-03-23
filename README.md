@@ -1,6 +1,6 @@
 ### Hi there, I'm Sam! 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfilip"/>
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfilip"/>
 <!-- <table width="100%" border="1"><tr><td valign="top"> -->
 <!-- 
 ### Frontend  
